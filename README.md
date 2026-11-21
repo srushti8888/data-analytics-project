@@ -238,14 +238,11 @@ http://localhost:8501
 ---
 
 ## 📸 Dashboard Preview
+<img width="1881" height="870" alt="Screenshot 2026-11-21 200232" src="https://github.com/user-attachments/assets/af47008c-da8f-4b70-bc3e-2ee168a625d1" />
 
-Add your project screenshots here after running the application.
+<img width="1882" height="903" alt="Screenshot 2026-11-21 200251" src="https://github.com/user-attachments/assets/c221a0a7-9963-4cd4-b931-d67b2ff4cf2d" />
 
-Example:
 
-![Netflix Dashboard](screenshots/dashboard.png)
-
----
 
 ## 🚀 Future Improvements
 
@@ -272,19 +269,6 @@ Through this project, I learned:
 - Data visualization.
 - Git and GitHub project management.
 
----
-
-## 👩‍💻 Author
-
-**Your Name**
-
-Aspiring Data Analyst
-
-Skills: Python | Pandas | NumPy | SQL | Data Analytics
-
-GitHub: YOUR_GITHUB_PROFILE_URL
-
----
 
 ## ⭐ Acknowledgements
 
